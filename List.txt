@@ -1,0 +1,2 @@
+0.0.0.0 pi.ias.xiaomi.com 
+0.0.0.0 extranet-ipv4-pub-alisgp.alb.xiaomi.com
